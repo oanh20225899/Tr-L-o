@@ -31,4 +31,4 @@ Một trợ lý ảo đơn giản được viết bằng Python với các tính
     
 4. **Cách sử dụng**:
  ```bash
-   python trolyao.py 
+   python trolyaomoi.py 
