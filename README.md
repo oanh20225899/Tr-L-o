@@ -26,6 +26,9 @@ Một trợ lý ảo đơn giản được viết bằng Python với các tính
    ```bash
    git clone https://github.com/yourusername/your-repository.git
 2. **Cài đặt các thư viện**:
+   ```bash
    pip install playsound speechrecognition gtts selenium webdriver-manager wikipedia-api deep-translator pytesseract pillow face_recognition opencv-python matplotlib requests beautifulsoup4 youtube-search-python
+    
 4. **Cách sử dụng**:
-   python trolyao.py
+ ```bash
+   python trolyao.py 
