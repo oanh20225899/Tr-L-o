@@ -10,13 +10,13 @@ A simple virtual assistant written in Python with features such as speech recogn
 -**Website Opening**: Opens websites based on domain names from voice commands.  
 -**Google Search**: Searches for keywords on Google and displays the results.
 -**Weather Forecasting**: Displays weather forecast information for a specific city.
--**Play Music on YouTube**: Searches for and plays songs from YouTube.
--**Wallpaper Changing**: Downloads and changes the computer's wallpaper.
--**News Reading**: Reads top news based on keywords.
--**Wikipedia Information Retrieval**: Searches and reads information from Wikipedia.
--**Text Translation**: Translates text from English to Vietnamese.
--**Image to Text Conversion**: Uses OCR to extract text from images.
--**Face Recognition in Images**: Detects and marks faces in images.
+-**Play Music on YouTube**: Searches for and plays songs from YouTube.  
+-**Wallpaper Changing**: Downloads and changes the computer's wallpaper.  
+-**News Reading**: Reads top news based on keywords.  
+-**Wikipedia Information Retrieval**: Searches and reads information from Wikipedia.  
+-**Text Translation**: Translates text from English to Vietnamese.  
+-**Image to Text Conversion**: Uses OCR to extract text from images.  
+-**Face Recognition in Images**: Detects and marks faces in images.  
 
 
 ## Cài Đặt
