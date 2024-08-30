@@ -1,24 +1,23 @@
 # Virtual Assistant
 
-Một trợ lý ảo đơn giản được viết bằng Python với các tính năng như nhận diện giọng nói, phát nhạc, tra cứu thông tin, dự báo thời tiết, và nhiều hơn nữa. Dự án này sử dụng nhiều thư viện và công cụ mạnh mẽ để cung cấp trải nghiệm người dùng tiện lợi và đa dạng.
+A simple virtual assistant written in Python with features such as speech recognition, music playback, information lookup, weather forecasting, and more. This project utilizes various powerful libraries and tools to provide a convenient and diverse user experience.
+## Features
 
-## Các Tính Năng
+-**Speech Recognition**: Records and converts speech into text using the SpeechRecognition library.
+-**Greeting and Interaction**: Generates greetings and interacts with users based on the time of day.
+-**Get Current Time and Date**: Provides information on the current time and date.
+-**Application Launching**: Launches applications like Google Chrome, Safari, and Microsoft Excel.
+-**Website Opening**: Opens websites based on domain names from voice commands.
+-**Google Search**: Searches for keywords on Google and displays the results.
+-**Weather Forecasting**: Displays weather forecast information for a specific city.
+-**Play Music on YouTube**: Searches for and plays songs from YouTube.
+-**Wallpaper Changing**: Downloads and changes the computer's wallpaper.
+-**News Reading**: Reads top news based on keywords.
+-**Wikipedia Information Retrieval**: Searches and reads information from Wikipedia.
+-**Text Translation**: Translates text from English to Vietnamese.
+-**Image to Text Conversion**: Uses OCR to extract text from images.
+-**Face Recognition in Images**: Detects and marks faces in images.
 
-- **Chuyển văn bản thành giọng nói**: Sử dụng gTTS để chuyển đổi văn bản thành giọng nói và phát âm thanh.
-- **Nhận diện giọng nói**: Ghi âm và chuyển đổi giọng nói thành văn bản sử dụng thư viện SpeechRecognition.
-- **Chào hỏi và giao tiếp**: Tạo các câu chào hỏi và giao tiếp với người dùng dựa trên thời gian trong ngày.
-- **Lấy thời gian và ngày tháng hiện tại**: Cung cấp thông tin về thời gian và ngày tháng hiện tại.
-- **Mở ứng dụng**: Khởi chạy các ứng dụng như Google Chrome, Safari, Microsoft Excel.
-- **Mở trang web**: Mở trang web theo tên miền từ câu lệnh.
-- **Tìm kiếm trên Google**: Tìm kiếm từ khóa trên Google và hiển thị kết quả.
-- **Dự báo thời tiết**: Hiển thị thông tin dự báo thời tiết cho một thành phố cụ thể.
-- **Phát nhạc trên YouTube**: Tìm kiếm và phát bài hát từ YouTube.
-- **Thay đổi hình nền**: Tải và thay đổi hình nền trên máy tính.
-- **Đọc tin tức**: Đọc các tin tức hàng đầu dựa trên từ khóa.
-- **Tìm kiếm thông tin từ Wikipedia**: Tìm kiếm và đọc thông tin từ Wikipedia.
-- **Dịch văn bản**: Dịch văn bản từ tiếng Anh sang tiếng Việt.
-- **Chuyển đổi hình ảnh thành văn bản**: Sử dụng OCR để trích xuất văn bản từ hình ảnh.
-- **Nhận diện khuôn mặt trong hình ảnh**: Phát hiện và đánh dấu các khuôn mặt trong hình ảnh.
 
 ## Cài Đặt
 
