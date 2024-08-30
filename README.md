@@ -8,8 +8,8 @@ A simple virtual assistant written in Python with features such as speech recogn
 -**Get Current Time and Date**: Provides information on the current time and date.  
 -**Application Launching**: Launches applications like Google Chrome, Safari, and Microsoft Excel.  
 -**Website Opening**: Opens websites based on domain names from voice commands.  
--**Google Search**: Searches for keywords on Google and displays the results.
--**Weather Forecasting**: Displays weather forecast information for a specific city.
+-**Google Search**: Searches for keywords on Google and displays the results.  
+-**Weather Forecasting**: Displays weather forecast information for a specific city.  
 -**Play Music on YouTube**: Searches for and plays songs from YouTube.  
 -**Wallpaper Changing**: Downloads and changes the computer's wallpaper.  
 -**News Reading**: Reads top news based on keywords.  
