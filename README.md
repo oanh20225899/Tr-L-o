@@ -19,15 +19,15 @@ A simple virtual assistant written in Python with features such as speech recogn
 -**Face Recognition in Images**: Detects and marks faces in images.  
 
 
-## Cài Đặt
+## Setting
 
-1. **Clone dự án về máy của bạn**:
+1. **Clone the project to your computer**:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-2. **Cài đặt các thư viện**:
+   git clone https://github.com/oanh20225899/TroLiAo.git
+2. **Install libraries**:
    ```bash
    pip install playsound speechrecognition gtts selenium webdriver-manager wikipedia-api deep-translator pytesseract pillow face_recognition opencv-python matplotlib requests beautifulsoup4 youtube-search-python
     
-4. **Cách sử dụng**:
+4. **How to use**:
  ```bash
    python trolyaomoi.py 
